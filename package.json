@@ -1,0 +1,23 @@
+{
+  "name": "hardhat-etherscan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etherscan/hardhat-etherscan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/etherscan/hardhat-etherscan/issues"
+  },
+  "homepage": "https://github.com/etherscan/hardhat-etherscan#readme",
+  "devDependencies": {
+    "hardhat": "^2.16.0"
+  }
+}
